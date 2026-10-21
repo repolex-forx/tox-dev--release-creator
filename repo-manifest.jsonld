@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/release-creator/commit/b3d8b06f3a2fc8d76e9499964879b0974b936d6c",
       "git:hexsha": "b3d8b06f3a2fc8d76e9499964879b0974b936d6c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.1"
     },
     {
